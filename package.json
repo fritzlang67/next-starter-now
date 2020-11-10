@@ -1,0 +1,17 @@
+{
+  "name": "next-starter-now",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+"scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
