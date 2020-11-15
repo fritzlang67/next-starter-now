@@ -1,4 +1,4 @@
-function Index() {
+function about() {
   return (
     <section class="hero">
   <div class="hero-body">
@@ -16,4 +16,4 @@ function Index() {
 }
 
 
-export default Index;
+export default about;

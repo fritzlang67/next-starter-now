@@ -6,6 +6,7 @@ function App ({ Component, pageProps}) {
     <>
     <div>
     <Link href="/"><a >Home</a></Link>
+    {" "}
     <Link href="/about"><a >About</a></Link>
     </div>
     <Component {...pageProps} />
